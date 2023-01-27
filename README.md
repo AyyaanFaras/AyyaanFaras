@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyyaanFaras
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently Persuing Computer Engineering, 2nd Year
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently Persuing Computer Engineering, 3nd Year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: farasayyaan@gmail.com
 
