@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyyaanFaras
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Persuing Computer Engineering, 3rd Year
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java & Android Development
+- 🌱 I’m currently working at Sasken
+- 💞️ I’m looking to collaborate on Andtroid Projects
 - 📫 How to reach me: farasayyaan@gmail.com
 
 <!---
